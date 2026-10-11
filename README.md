@@ -41,3 +41,4 @@ Temporarily change `return a + b` in `add()` to `return a - b`, commit and push.
 
 ## Expected result
 A successful run compiles the Python file and passes all six tests. A failed test makes the CI job fail, giving immediate feedback on the code change.
+
